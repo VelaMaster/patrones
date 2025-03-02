@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Auto
-comment1.params=tipo\ asientos
-comment1.target=Auto(java.lang.String,\ int)
-comment2.params=
-comment2.target=void\ mostrar()
-numComments=3
